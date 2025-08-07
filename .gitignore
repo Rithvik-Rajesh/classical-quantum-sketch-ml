@@ -1,0 +1,13 @@
+.env/
+*.json
+Lab_Class/
+.history/
+data/
+Papers/
+*.ipynb_checkpoints
+Classical/Image_data/
+Classical/processed_data/
+Classical/model_results.csv
+practise.py
+.DS_Store
+
