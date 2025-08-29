@@ -92,7 +92,6 @@ def preprocess_data(X, y, pca_dim=None, encoding_type='amplitude'):
     
     return X_processed, y_encoded, scaler, label_encoder, pca, basis_scaler
 
-
 # -----------------------------
 #   Optimized Quantum Encoding Functions
 # -----------------------------
