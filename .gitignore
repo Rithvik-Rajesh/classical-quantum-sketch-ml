@@ -10,4 +10,6 @@ Classical/processed_data/
 Classical/model_results.csv
 practise.ipynb
 .DS_Store
+.pyc
+__pycache__/
 dataset_graph7.csv
